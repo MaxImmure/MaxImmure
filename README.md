@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ### Let's start with my favorite quotes:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=5000&width=2500&lines=+%22Leave+this+world+a+little+better+than+you+found+it.%22+-+Robert+Baden-Powell;%22The+most+worth-while+thing+is+to+try+to+put+happiness+into+the+lives+of+others.%22+-+Robert+Baden-Powell)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=5000&width=2200&lines=+%22Leave+this+world+a+little+better+than+you+found+it.%22+-+Robert+Baden-Powell;%22The+most+worth-while+thing+is+to+try+to+put+happiness+into+the+lives+of+others.%22+-+Robert+Baden-Powell)](https://git.io/typing-svg)
 
 ## About me 👨🏻‍💻
 ```json
