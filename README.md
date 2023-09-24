@@ -20,19 +20,19 @@ Here are some ideas to get you started:
 ## About me 👨🏻‍💻
 ```json
 {
-	"name": "Maximilian Mörth",
-	"year_of_birth": "2000",
-	"located_in": "Vienna, Austria",
-	"current_occupation": "Student of Computer Science (UAS Technikum Wien)",
-	"fields_of_interest": [
+    "name": "Maximilian Mörth",
+    "year_of_birth": "2000",
+    "located_in": "Vienna, Austria",
+    "current_occupation": "Student of Computer Science (UAS Technikum Wien)",
+    "fields_of_interest": [
         "Scout Movement",
         "Data Science",
         "Quantum Computing",
         "Internet of Things (IoT)",
         "Web Development",
         "Database (SQL and NoSQL)"
-        ],
-	"hobbies": [
+    ],
+    "hobbies": [
         "Scout leadership",
         "Gaming",
         "Coding",
@@ -42,8 +42,8 @@ Here are some ideas to get you started:
         "Stardew Valley",
         "Rocket League",
         "League of Legends",
-		"Factorio",
-	]
+	"Factorio"
+    ]
 }
 ```
 
